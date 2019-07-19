@@ -1,0 +1,520 @@
+/*width 600px*/ 
+@media screen and (max-width: 600px  ){
+    #container{
+        width:100%;height:100%;margin-top: 0px;padding-top: 30px;padding-left:200px;padding-bottom: 10px;
+       }  
+       #wrapper{
+        width:1360px;height:4600px;
+       }    
+      #wrapper-margin{
+                     
+      width:px;margin:0px auto;height: auto;
+      }   
+         
+         
+     #wrapper .wrapper-margin-left{
+         float: left;
+         height:auto;
+     }
+     /*header------------------------------------------*/
+     #wrapper-margin #header{
+         width:680px;
+         height: 800px;
+        
+     }
+     .intro-img{
+     margin-top: 115px;margin-left: 300px;
+     }
+     .button_booknow{
+        margin-top: 40px;margin-left: 1075px;width:160px;height:60px;;  
+     }
+     .booknow_button{
+     font-size: 14px;line-height: 1.43;letter-spacing: 2.8px;
+     }
+     .menu-header{
+        margin-left: 1050px;margin-top:170px;width: 113px;height:187px;
+     }
+     .bangkok_menu{
+      font-size: 10px;line-height: 1.5;letter-spacing: 2px;
+     }
+     .BEVERLYHILLS{
+      font-size: 10px;line-height: 1.5;letter-spacing: 2px;
+     }
+     .HONGKONG{
+     font-size: 10px;line-height: 1.5;letter-spacing: 2px;
+     }
+     .LOSANGELES{
+      font-size: 10px;line-height: 1.5;letter-spacing: 2px;
+     }
+     .MACAU{
+         font-size: 10px;line-height: 1.5;letter-spacing: 2px;
+     }
+     .NEWYORK{
+      font-size: 10px;line-height: 1.5;letter-spacing: 2px;
+     }
+     .PATTAYA{
+      font-size: 10px;line-height: 1.5;letter-spacing: 2px;
+     }
+      .PERTH{
+      font-size: 10px;line-height: 1.5;letter-spacing: 2px;
+      }
+      .SANFRANCISCO{
+     font-size: 10px;line-height: 1.5;letter-spacing: 2px;
+      }
+     .SHENZHEN{
+      font-size: 10px;line-height: 1.5;letter-spacing: 2px;
+     }
+     .SINGAPORE{ font-size: 10px;line-height: 1.5;letter-spacing: 2px;}
+     
+     .YANGON{
+      font-size: 10px;line-height: 1.5;letter-spacing: 2px;
+     }
+     
+     .hr_1{
+         width:160px;height:3px;margin-left:1080px;margin-top: 380px;
+     }
+     .pSCROLL_DOWN{
+      width: 52px;height: 22px;margin-left:600px;margin-left:1100px;margin-top: 600px;font-size: 10px;line-height: 1.5;letter-spacing: 2px;
+     }
+     
+     .img_welcomehome{
+       margin-top: 60px;margin-left: -5.6em;
+     }
+     
+     .img_hotels-g-logo{
+        margin-top:39px;margin-left:40px;
+     }
+     
+     .hr_top{
+     width:4px;height:240px;margin-left: 40px;margin-top: 39px;
+     }
+     
+     .textintro{
+        margin-top: -79px;margin-left: 50px;
+     }
+     .KNOWMORE{
+     margin-top: 150px;margin-left:118px; font-size: 14px;line-height: 1.43;letter-spacing: 2.8px;
+     }
+     
+     .hr_top1{
+     width:117px;height:4px;margin-left:119px;margin-top:182px;
+     }
+     
+     .img_icon-facebook{
+     margin-left:39px;margin-top: 400px;
+     }
+     .img_icon-twitter{
+     margin-left:78px;margin-top: 400px;
+     }
+     .img_icon-pinterest{
+     margin-left:120px;margin-top: 400px;
+     }
+     .img_icon-instagram{
+     margin-left:159px;margin-top: 400px;
+     }
+     
+     .img_icon-wechat{
+     margin-left:200px;margin-top: 400px;
+     }
+     
+     
+     
+     
+     /*MENU*-----------------------------------------------*/
+     #wrapper-margin #menu{
+         width:580px;
+         height:1600px;
+        
+         margin-top: 600px;
+        
+     }
+     .img_vogue{
+     margin-top:520px;margin-left: 80px;
+     }
+     .img_ad{
+     margin-top:520px;margin-left: 300px;
+     }
+     
+     .img_monocle{
+     margin-top: 780px;margin-left:80px;
+     }
+     
+     .img_wallpaper{
+     margin-top:780px;margin-left:300px;
+     }
+     
+     .img_daucong{
+       margin-top: 740px;margin-left:280px;
+     }
+     .p_Featuredin{
+     font-size: 42px;line-height: 1.9;margin-top: 401px;margin-left: 76px;
+     }
+     .hr_menu{
+     width:420px;height:4px;margin-top: 475px;margin-left: 80px;
+     }
+     .hr_menu1{
+     width:420px;height:4px;margin-top:1036px;margin-left: 80px;
+     }
+     .p_HotelsGhaveafast-growingreputation{
+     font-size: 14px;line-height: 1.43;margin-top: 1129px;margin-left:80px;
+     }
+     
+     
+     
+     
+     
+     /* ----------------------box-------------------------------------------------------------------------------*/
+     #wrapper-margin #box{
+        
+         width: 680px;
+         height:420px;
+        margin-top: -87.5em;
+     }
+     .G_img{
+        margin-left:121px;
+     }
+     .About_HotelsG{
+        font-size: 80px;line-height: 1; margin-left: 314px;margin-top: 601px;
+     }
+     
+     .HotelsG_is_home_to_savvy_nomads_keen{
+       font-size: 14px; line-height: 1.43;margin-top: 930px;margin-left: 320px; 
+     }
+     .Our_hotels{
+     font-size: 42px;line-height: 0.95;margin-left: 116px;margin-top: 1300px; 
+     }
+     .hr_box{
+       margin-top:1392px;width:240px;height:4px;margin-left: 120px;
+     }
+     .DISCOVER{
+     font-size: 14px;line-height: 1.43;letter-spacing: 2.8px;margin-left:119px;margin-top: 1490px;
+     }
+     .hr_box1{
+        height:4px;width:95px;margin-left: 119px;margin-top: 1520px;
+     }
+     .img_prev{
+     margin-left: 120px;margin-top: 1420px;
+     }
+     .img_next{
+     margin-left: 169px;margin-top: 1420px;
+     }
+     .img_img1{
+     width:200px;height:200px;margin-left: 320px;margin-top: 1270px;
+     }
+     
+     .img_img2{
+     width:200px;height:200px;margin-top: 1270px;margin-left: 540px;
+     }
+     .img_img3{
+     width:200px;height:200px;margin-top: 1270px;margin-left: 760px;
+     }
+     .img_img4{
+     width:200px;height:200px;margin-top: 1270px;margin-left: 980px;
+     }
+     .p_HOTELG1{
+      font-size: 14px;line-height: 1.43;margin-left: 319px;margin-top: 1490px;
+     }
+     .p_HOTELG2{
+       font-size: 14px;line-height: 1.43;margin-left: 538px;margin-top: 1490px;
+     }
+     .p_HOTELG3{
+       font-size: 14px;line-height: 1.43;margin-left: 759px;margin-top: 1490px;
+       }
+     .p_HOTELG4{
+      font-size: 14px;line-height: 1.43;margin-left: 978px;margin-top: 1490px;
+     }
+     
+     .p_SINGAPORE{
+     font-size: 14px;line-height: 1.43;margin-top: 1490px;margin-left:388px; 
+     }
+     .p_SANFRANSISCO{
+     font-size: 14px;line-height: 1.43;margin-top: 1490px;margin-left:610px;
+     }
+     .p_YANGON{
+     font-size: 14px;line-height: 1.43;margin-top: 1490px;margin-left: 830px;
+     }
+     
+     .p_HONGKONG{
+      font-size: 14px;line-height: 1.43;margin-top: 1490px;margin-left: 1050px;
+     }
+     
+     .p_Knowmore1{
+     font-size: 14px;line-height: 1.43;margin-left: 319px;margin-top: 1590px;
+     }
+     
+     .p_Knowmore2{
+     font-size: 14px;line-height: 1.43;margin-left: 538px;margin-top: 1590px;
+     }
+     
+     .p_Knowmore3{
+     font-size: 14px;line-height: 1.43;margin-left: 759px;margin-top: 1590px;
+     }
+     
+     .p_Knowmore4{
+     font-size: 14px;line-height: 1.43;margin-left: 978px;margin-top: 1590px;
+     }
+     
+     .p_Loremipsumdolorsitamet{
+     font-size: 14px;line-height: 1.43;margin-left: 319px;margin-top: 1510px;
+     }
+     .p_Utenimadminimveniam{
+     font-size: 14px;line-height: 1.43;margin-left: 538px;margin-top: 1510px;
+     }
+     
+     .p_Nequeporroquisquamest{
+     font-size: 14px;line-height: 1.43;margin-left: 759px;margin-top: 1510px;
+     }
+     .p_Nemoenimipsamvoluptem{
+     font-size: 14px;line-height: 1.43;margin-left: 978px;margin-top: 1510px;
+     }
+     
+     .GTalk{
+     font-size: 80px;line-height: 1;margin-left: 760px;margin-top:1900px; 
+     }
+     .p_Loremipsumdolorsitamet{
+       font-size: 14px;line-height: 1.43;margin-left: 760px;margin-top:2000px;  
+     }
+     
+     .READGTALK{
+     font-size: 14px;line-height: 1.43;letter-spacing: 2.8px;margin-left: 759px;margin-top: 2090px;  
+     }
+     .hr_box2{
+     width:125px;height:4px;margin-left: 759px;margin-top:2120px; 
+     }
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     /*------------------------------------------BOX1------------------------------------------------*/
+     #wrapper-margin #box1{
+         width:220px;
+         height: 340px;
+        
+         margin-top: -61.3em;
+     }
+     li{
+         padding:5px 15px 15px 15px;
+         
+     }
+     
+     
+     
+     
+     
+     
+     /*------------------------------------------BOX2------------------------------------------------*/
+     #wrapper-margin #box2{
+     width:580px;
+     height:580px;
+     
+     margin-top:840px;
+     margin-left: 42.6em;}
+     
+     .img_prevbox2{
+        margin-left: 422px;margin-top: -0.5em;
+     }
+     
+     .img_nextbox2{
+     margin-left: 471px;margin-top: -0.5em;
+     }
+     
+     .img_blog-2{
+        margin-top: 80px;margin-left: 80px;
+     }
+     .img_blog-3{
+         margin-top: 80px;margin-left: 300px;
+     }
+     
+     .hr_boxx2{
+      width:54px;height:54px;margin-left: 80px;margin-top:222px;
+     }
+     
+     .hr_boxxx2{
+      width:54px;height:54px;margin-top: 222px;margin-left: 300px;
+     }
+     .JULY1{
+     font-size: 12px;line-height: 2.17;margin-top:232px;margin-left: 90px;
+     }
+     .JULY2{
+     font-size: 12px;line-height: 2.17;margin-top: 232px;margin-left: 311px;
+     }
+     .p_22{
+       font-size: 30px;letter-spacing: -1.5px;margin-top: 244px;margin-left: 90px;
+     }
+     .p_12{
+        font-size: 30px;letter-spacing: -1.5px;margin-top: 244px;margin-left: 311px;
+     }
+     .DESTINATION_1{
+       font-size: 12px;line-height: 1.67;margin-top: 291px;margin-left: 80px;
+     }
+     
+     .DESTINATION_2{
+       font-size: 12px;line-height: 1.67;margin-top: 291px;margin-left: 300px;
+     }
+     .ONLYINTOKYO{
+         font-size: 14px;line-height: 1.43;margin-top: 310px;margin-left: 79px;
+     }
+     .INSTAGRAMMABLEMACAU{
+       font-size: 14px;line-height: 1.43;margin-top:310px;margin-left: 298px;
+     }
+     .p_Startatthebeginning{
+         font-size: 14px;line-height: 1.43;margin-top: 341px;margin-left: 79px;
+     }
+     .p_The368-roomMacau{
+         font-size: 14px;line-height: 1.43;margin-top: 341px;margin-left: 298px;
+     }
+     
+     .Read_more1{
+        font-size: 14px;line-height: 1.43;margin-left: 79px;margin-top: 480px;
+     }
+     
+     .Read_more2{
+         font-size: 14px;line-height: 1.43;margin-left: 298px;margin-top: 480px;
+     }
+     
+     
+     
+     
+     
+     
+     
+     
+     /*------------------------------------------BOX3------------------------------------------------*/
+     #wrapper-margin #box3{
+         width:680px;
+         height: 1250px;
+        
+         margin-top: -58em;
+     }
+     
+     .img_blog-1{
+      
+     }
+     
+     .hr_b3{
+         width:120px;height:120px;margin-left: 120px;margin-top: 580px;
+     }
+     .JULY{
+        font-size: 20px;line-height: 2.2;margin-top: 612px;margin-left: 152px;
+     }
+     
+     .p_28{
+        font-size: 50px;letter-spacing: -2.5px;margin-top: 635px;margin-left: 152px;
+     }
+     
+     .INTERVIEW{
+        font-size: 12px;line-height: 1.67;margin-top: 711px;margin-left:120px;
+     }
+     .PORTRAIT_CHEF{
+         font-size: 14px; margin-top:730px;margin-left: 118px;
+     }
+     
+     .p_Thesonofacharcuteriechef{
+         font-size: 14px;line-height: 1.43;margin-top: 750px;margin-left: 118px;
+     }
+     .Read_more{
+       font-size: 14px;line-height: 1.43;margin-left: 118px;margin-top: 820px;
+     }
+     
+     .Insta_G{
+      font-size: 42px;line-height: 1.9;margin-top: 1030px;margin-left: 117px;
+     }
+     .hr-b{
+       width:560px;height: 4px;margin-top: 1098px;margin-left: 120px;
+     }
+     .img_insta-1{
+       margin-top: 1140px;margin-left: 120px;
+     }
+     .img_insta-2{
+       margin-top: 1140px;margin-left:330px;
+     }
+     .img_insta-3{
+       margin-top: 1140px;margin-left: 540px;
+     }
+     .img_insta-4{
+       margin-top: 1140px;margin-left: 752px;
+     }
+     
+     .p_HOTELS_G{
+      font-size: 14px;line-height: 1.83;letter-spacing: 2.8px;margin-top:1070px;margin-left: 1068px;
+     }
+     
+     .img_copie{
+      margin-top: 1230px;margin-left: 1090px;
+     }
+     .img_totop{
+     margin-left: 1166px;margin-top: 1450px;
+     }
+     .Newsletter{
+     font-size: 42px;line-height: 1.9;margin-left: 119px;margin-top: 1415px; 
+     }
+     .hr-black{
+       width:1020px;height: 4px;margin-left: 120px;margin-top: 1485px;
+     }
+     
+     .input{
+       width:280px;height:40px;margin-left: 120px;margin-top: 1510px;
+     }
+     
+     .p_Youre-mailaddress{
+       font-size: 14px;line-height: 1.43;
+     }
+     .nut_OK{
+      font-size: 20px;line-height: 4;margin-left: 357px;margin-top: 1490px;
+     }
+     .p_StayconnectedtoHotelG{
+      font-size: 14px;line-height: 1.43;margin-left: 119px;margin-top: 1565px;
+     }
+     .Receive{
+      font-size: 14px;line-height: 1.43;margin-left: 119px;margin-top: 1580px;
+     }
+     .a_Termsconditions{
+      font-size: 14px;line-height: 2.14;margin-left: 119px;margin-top: 1690px;
+     }
+     
+     .link_Mission_development{
+      font-size: 14px;line-height: 2.14;margin-left: 119px;margin-top: 1720px;
+     }
+     .link_Careers{
+       font-size: 14px;line-height: 2.14;margin-left: 119px;margin-top: 1740px;
+     }
+     .link_Contactus{
+       font-size: 14px;line-height: 2.14;margin-left: 119px;margin-top: 1760px;
+     }
+     .p_2018_HOTELS_G_all_rights_reserved{
+      font-size: 14px;line-height: 5.71;margin-left: 932px;margin-top: 1760px;
+     }
+     
+     /*------------------------------------------BOX4------------------------------------------------*/
+     #wrapper-margin #box4{
+       
+         width: 100px;
+         height:4600px;
+       
+         margin-top:-226.3em;
+     }
+     
+     .img_iconmenu{
+     margin-top: 40px;margin-left: 40px;
+     }
+     .ten_MENU{
+      width:10px;height:51px;font-size: 14;margin-top: 100px;margin-left: 35px;
+     }
+     .tenmenu_中文{
+       width: 14px;height: 29px;font-size: 14;margin-top:675px;margin-left: 43px;
+     }
+     .ten_menu_EN{
+      width: 10px;height: 21px;font-size: 14;margin-top: 739px;margin-left: 45px;
+     }
+     .hr_hr{
+       width:60px;height:60px;margin-top:720px;margin-left: 20px;
+     }
+
+
+}
